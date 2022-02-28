@@ -1,0 +1,19 @@
+header, header div, .S1, .S2, .S3, .S4 {
+    margin: 10em;
+    border: brown solid 1px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.samples {
+    display: flex;
+    gap: 5em;
+}
+.samples img {
+    max-width: 30em;
+    flex: 1 1 auto;
+}
+.S2{
+    flex-direction: column;
+}
