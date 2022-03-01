@@ -54,6 +54,8 @@ img {
 
 a {
     margin: 0 10px;
+    text-decoration: none;
+    color: inherit;
 }
 
 .S2{
