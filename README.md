@@ -1,2 +1,2 @@
-# landing-page
+# landing_page
 creating a simple landing page using flexbox for an assignment by TheOdinProject
