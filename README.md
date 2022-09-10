@@ -1,2 +1,2 @@
 # landing_page
-creating a simple landing page using flexbox for an assignment by TheOdinProject
+creating a pixel perfect landing page using flexbox for an assignment by TheOdinProject
